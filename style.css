@@ -1,0 +1,84 @@
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+/* GLOBAL */
+
+.font {
+    font-family: 'Inter', sans-serif;
+}
+
+html, body {
+    margin: 0px; 
+    padding: 0px
+}
+
+/* NAV */
+
+.navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.logo {
+    max-width: 300px;
+}
+
+.nav-item {
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* HOME */
+
+#home {
+    padding: 4em 0 0 0;
+}
+
+/* MAIN */
+
+.jumbotron-one {
+    margin-top: 40px;
+    background: URL(images/OrangeTriBackground.png);
+}
+
+.jumbotron-one p {
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+
+.card-one {
+    background-color: #FA7A66;
+    border-radius: 0;
+}
+
+/* AGENDA */
+
+.jumbotron-two {
+    background-color: #CCCCCC;
+    margin-top: 30px;
+}
+
+.card-two {
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+
+/* SPEAKERS */
+
+.jumbotron-three {
+    background-color: black;
+    margin-top: 30px;
+}
+
+/* MEDIA QUERIES */
+
+@media screen and (max-width: 576px) {
+    .logo {
+        max-width: 200px;
+    }
+}
