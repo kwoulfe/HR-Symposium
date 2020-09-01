@@ -159,6 +159,25 @@ html, body {
     margin-top: 30px;
 }
 
+/* FOOTER */
+
+.jumbotron-nine {
+    background-color: #009DDC;
+    margin-top: 30px;
+}
+
+.jumbotron-nine i {
+    color: white;
+    font-size: 60px;
+    padding-right: 15px;
+}
+
+.jumbotron-nine p {
+    color: white;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 576px) {
