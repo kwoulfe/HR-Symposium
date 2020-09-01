@@ -123,6 +123,24 @@ html, body {
     font-size: 24px;
 }
 
+/* SPONSORS */
+
+.jumbotron-six {
+    background-color: white;
+    /* margin-top: 30px; */
+}
+
+.jumbotron-six h1 {
+    color: #009DDC;
+    font-size: 38px;
+}
+
+.jumbotron-six p {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 576px) {
