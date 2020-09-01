@@ -105,8 +105,17 @@ html, body {
 /* CREDITS */
 
 .jumbotron-five {
-    background-color: #CCCCCC;
+    background-color: #F2F2F2;
     margin-top: 30px;
+}
+
+.jumbotron-five h1 {
+    color: #009DDC;
+    font-size: 38px;
+}
+
+.jumbotron-five img {
+    padding-top: 40px;
 }
 
 /* MEDIA QUERIES */
