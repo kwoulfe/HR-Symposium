@@ -85,6 +85,23 @@ html, body {
     font-size: 20px;
 }
 
+/* PRICING */
+
+.jumbotron-four {
+    background-color: #009DDC;
+    margin-top: 30px;
+}
+
+.jumbotron-four h1 {
+    color: white;
+    font-size: 90px;
+}
+
+.jumbotron-four h2 {
+    color: white;
+    font-size: 30px;
+}
+
 /* MEDIA QUERIES */
 
 @media screen and (max-width: 576px) {
