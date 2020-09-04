@@ -43,6 +43,7 @@ html, body {
 .jumbotron-one {
     margin-top: 40px;
     background: URL(images/OrangeTriBackground.png);
+    background-size: cover;
 }
 
 .jumbotron-one p {
