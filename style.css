@@ -153,27 +153,34 @@ html, body {
     padding-bottom: 25px;
 } */
 
-/* PRE-FOOTER */
+/* FAQ */
 
 .jumbotron-eight {
+    background-color: #F2F2F2;
+    margin-top: 30px;
+}
+
+/* PRE-FOOTER */
+
+.jumbotron-nine {
     background-color: white;
     margin-top: 30px;
 }
 
 /* FOOTER */
 
-.jumbotron-nine {
+.jumbotron-ten {
     background-color: #009DDC;
     margin-top: 30px;
 }
 
-.jumbotron-nine i {
+.jumbotron-ten i {
     color: white;
     font-size: 60px;
     padding-right: 15px;
 }
 
-.jumbotron-nine p {
+.jumbotron-ten p {
     color: white;
     font-size: 25px;
     padding-top: 20px;
