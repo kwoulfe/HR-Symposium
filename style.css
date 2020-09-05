@@ -6,13 +6,19 @@ html { font-family: 'Inter', sans-serif; }
 
 /* GLOBAL */
 
+html, body {
+    margin: 0px; 
+    padding: 0px
+}
+
+
 .font {
     font-family: 'Inter', sans-serif;
 }
 
-html, body {
-    margin: 0px; 
-    padding: 0px
+h1 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
 }
 
 /* NAV */
@@ -50,6 +56,14 @@ html, body {
     color: white;
     font-size: 30px;
     padding-top: 30px;
+}
+
+.jumbotron-one .card-body p {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    padding-top: 0;
+
 }
 
 .card-one {
@@ -93,14 +107,17 @@ html, body {
     margin-top: 30px;
 }
 
-.jumbotron-four h1 {
+.jumbotron-four h2 {
     color: white;
     font-size: 90px;
 }
 
-.jumbotron-four h2 {
+.jumbotron-four h3 {
     color: white;
     font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    line-height: 50px;
 }
 
 /* CREDITS */
@@ -110,7 +127,7 @@ html, body {
     margin-top: 30px;
 }
 
-.jumbotron-five h1 {
+.jumbotron-five h2 {
     color: #009DDC;
     font-size: 38px;
 }
@@ -131,7 +148,7 @@ html, body {
     /* margin-top: 30px; */
 }
 
-.jumbotron-six h1 {
+.jumbotron-six h2 {
     color: #009DDC;
     font-size: 38px;
 }
