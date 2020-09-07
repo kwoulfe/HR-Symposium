@@ -11,6 +11,33 @@ html, body {
     padding: 0px
 }
 
+header {
+    display: none !important;
+}
+
+.top-nav {
+    display: none !important;
+}
+
+.middle {
+    background: none !important;
+}
+
+footer {
+    display: none !important;
+}
+
+.copyright {
+    display: none;
+}
+
+nav.navbar li.nav-item {
+    border-left: none !important;
+}
+
+nav.navbar a.nav-link {
+    padding: 0 .5rem 0 .5rem !important;
+}
 
 .font {
     font-family: 'Inter', sans-serif;
@@ -60,7 +87,7 @@ h1 {
 
 .jumbotron-one {
     margin-top: 40px;
-    background: URL(images/OrangeTriBackground.png);
+    background: URL(/-/media/Marketing/Images/OrangeTriBackground.png);
     background-size: cover;
 }
 
