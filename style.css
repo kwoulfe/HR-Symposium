@@ -52,6 +52,10 @@ h1 {
     display: none;
 }
 
+.register {
+    font-size: 16px;
+}
+
 /* MAIN */
 
 .jumbotron-one {
@@ -341,12 +345,28 @@ h1 {
 }
 
 @media screen and (max-width: 576px) {
+    #home {
+        padding: 1em 0 0 0;
+    }
+
     .logo {
         max-width: 200px;
     }
 
     #home img {
         padding: 0 20px 0 20px;
+    }
+
+    .speakers {
+        padding-top: 15px;
+    }
+
+    .header-text-visible .purchase {
+        font-size: 20px;
+    }
+
+    .register {
+        font-size: 14px;
     }
 
     .jumbotron-one .col-sm-4 {
