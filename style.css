@@ -390,16 +390,24 @@ h1 {
     }
 
     .jumbotron-four h2 {
-        font-size: 32px;
+        font-size: 30px;
     }
 
     .jumbotron span {
-        font-size: 16px;
+        font-size: 14px;
     }
 
     .jumbotron-four h3 {
         font-size: 14px;
         line-height: 25px;
+    }
+
+    .jumbotron-five h2 {
+        font-size: 18px;
+    }
+
+    .jumbotron-five p {
+        font-size: 14px;
     }
 
     .jumbotron-ten p {
