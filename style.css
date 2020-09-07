@@ -388,4 +388,21 @@ h1 {
     .jumbotron-three img {
         padding-bottom: 10px;
     }
+
+    .jumbotron-four h2 {
+        font-size: 32px;
+    }
+
+    .jumbotron span {
+        font-size: 16px;
+    }
+
+    .jumbotron-four h3 {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .jumbotron-ten p {
+        font-size: 16px;
+    }
 }
