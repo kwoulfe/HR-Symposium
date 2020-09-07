@@ -420,5 +420,36 @@ h1 {
 }
 
 @media screen and (max-width: 375px) {
-    
+    .header-text-visible .purchase {
+        font-size: 18px;
+    }
+
+    .register {
+        font-size: 12px;
+        padding: 0 25px 0 25px;
+    }
+
+    .jumbotron-one p {
+        font-size: 16px;
+    }
+
+    .jumbotron-one .card-body h3 {
+        font-size: 20px;
+    }
+
+    .jumbotron-one .card-body p {
+        font-size: 16px;
+    }
+
+    .title {
+        font-size: 2rem;
+    }
+
+    .jumbotron-ten i {
+        font-size: 45px;
+    }
+
+    .jumbotron-ten p {
+        font-size: 14px;
+    }
 }
