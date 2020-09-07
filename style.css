@@ -11,7 +11,7 @@ html, body {
     padding: 0px
 }
 
-header {
+/* header {
     display: none !important;
 }
 
@@ -37,7 +37,7 @@ nav.navbar li.nav-item {
 
 nav.navbar a.nav-link {
     padding: 0 .5rem 0 .5rem !important;
-}
+} */
 
 .font {
     font-family: 'Inter', sans-serif;
