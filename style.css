@@ -384,4 +384,8 @@ h1 {
         text-align: center;
         padding-bottom: 15px;
     }
+
+    .jumbotron-three img {
+        padding-bottom: 10px;
+    }
 }
