@@ -73,6 +73,10 @@ h1 {
     padding-top: 0;
 }
 
+.cards {
+    padding-top: 40px;
+}
+
 .card-one {
     background-color: #FA7A66;
     border-radius: 0;
@@ -339,5 +343,17 @@ h1 {
 @media screen and (max-width: 576px) {
     .logo {
         max-width: 200px;
+    }
+
+    #home img {
+        padding: 0 20px 0 20px;
+    }
+
+    .jumbotron-one .col-sm-4 {
+        padding-bottom: 15px;
+    }
+
+    .cards {
+        padding-top: 20px;
     }
 }
