@@ -376,4 +376,9 @@ h1 {
     .cards {
         padding-top: 20px;
     }
+
+    .title {
+        font-size: 1.25rem;
+        margin-bottom: 0;
+    }
 }
