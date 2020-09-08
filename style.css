@@ -154,6 +154,14 @@ h1 {
     font-size: 20px;
 }
 
+.modal-content {
+    border-radius: 0;
+}
+
+.jumbotron-three a:hover {
+    color: #ff8500;
+}
+
 /* PRICING */
 
 .jumbotron-four {
@@ -166,7 +174,7 @@ h1 {
     font-size: 90px;
 }
 
-.jumbotron span {
+.jumbotron-four span {
     color: white;
     font-size: 18px;
 }
