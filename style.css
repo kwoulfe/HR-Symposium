@@ -118,8 +118,18 @@ h1 {
 /* AGENDA */
 
 .jumbotron-two {
-    background-color: #CCCCCC;
+    background-color: #F2F2F2;
     margin-top: 30px;
+}
+
+.jumbotron-two h2 {
+    color: #009DDC;
+    text-transform: uppercase;
+}
+
+.jumbotron-two p {
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .card-two {
@@ -158,15 +168,21 @@ h1 {
 
 .jumbotron span {
     color: white;
-    font-size: 30px;
+    font-size: 16px;
 }
 
 .jumbotron-four h3 {
     color: white;
     font-size: 30px;
     font-family: 'Inter', sans-serif;
+    font-weight: bold;
+}
+
+.jumbotron-four p {
+    color: white;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
     font-weight: 300;
-    line-height: 50px;
 }
 
 /* CREDITS */
