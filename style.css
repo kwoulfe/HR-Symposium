@@ -111,6 +111,8 @@ h1 {
 .card-one {
     background-color: #FA7A66;
     border-radius: 0;
+    text-align: center;
+    border: 2px solid white;
 }
 
 /* AGENDA */
